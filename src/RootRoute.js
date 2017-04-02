@@ -2,6 +2,7 @@ import React from 'react';
 import { Router, Route, browserHistory, hashHistory, useRouterHistory, createHistory } from 'react-router';
 
 import App from './components/App';
+import CompanyProfile from './components/CompanyProfile';
 
 //redux
 //import { syncHistoryWithStore } from 'react-router-redux';
@@ -35,6 +36,7 @@ class RootRoute extends React.Component {
     return (
       <Router history={browserHistory}>
           <Route path="/home" component={App} />
+          <Route path="/client/:id" component={CompanyProfile} />
       </Router>
     );
   }

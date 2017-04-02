@@ -29,6 +29,7 @@
     "react-countup": "^2.0.3",
     "react-dazzle": "^1.2.4",
     "react-dom": "^15.4.2",
+    "react-event-timeline": "^1.2.2",
     "react-faux-dom": "^2.5.0",
     "react-grid-system": "^2.7.0",
     "react-redux": "^5.0.2",

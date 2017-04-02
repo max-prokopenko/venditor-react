@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+#app {
+  font-family: Raleway,sans-serif;
+  align-items: center;
+
+}
+.infoCard {
+	min-height: 300px;
+	width: 95%;
+	margin-top: 30px;
+	margin-left: 20px;
+	padding: 20px;
+}
+.moreIcon {
+	margin-left: 100px;
+	margin-top: -20px;
+	color: #005C97 !important;
+}
+.companyInfo {
+	text-align: justify;
+}
+.timelineIcon {
+	color: #005C97 !important;
+	width: 20px !important;
+	height: auto;
+	margin-left: -1px;
+    margin-top: -2px;
+}
+.paidIcon {
+	color: green !important;
+}
+.bills {
+	height: 300px;
+	width: 95%;
+	
+	margin-left: 20px;
+	padding: 20px;
+}
+.addButton {
+	margin: 20px;
+}
