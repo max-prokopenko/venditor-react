@@ -1,71 +1,98 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
 #app {
-  min-height: 100vh;
-  font-family: Raleway,sans-serif;
+  align-items: center;
+  max-height: 100vh !important;
+  overflow: hidden;
+  font-family:Raleway, sans-serif;
+  font-size:14px;
+  line-height:1.6; 
 }
-.cardTop {
-	width: 100%;
-	text-align: left;
-	padding: 20px;
-	height: 10vh;	
-	background-color: #da8c10 !important;
+a {
 	color: #fff !important;
+	text-decoration: none !important;
 }
-.userStats {
-	display: flex;
-	flex-direction: row;
-}
-.stat {
-	padding: 10px;
-	margin-left: 5px !important;
-}
-.cards {
+.infoCard {
+	min-height: 300px;
+	width: 95%;
 	margin-top: 30px;
+	margin-left: 20px;
+	padding: 20px;
+	margin-bottom: 20px;
 }
-.card {
-	height: 100%;
-  	min-height: 180px;
-  	margin: 10px !important;
-	text-align: center;
-	padding-top: 5vh;
+.moreIcon {
+	margin-left: 100px;
+	margin-top: -20px;
+	color: #005C97 !important;
 }
-.minHeader {
+.companyInfo {
+	text-align: justify;
+}
+.timelineIcon {
+	color: #005C97 !important;
+	width: 20px !important;
+	height: auto;
+	margin-left: -1px;
+    margin-top: -2px;
+}
+.paidIcon {
+	color: green !important;
+}
+.bills {
+
+	width: 95%;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+.addButton {
+	margin: 20px;
+}
+.sideMenu {
+	background-color: #005C97 !important;
+	height: 100vh;
+	padding-right: 0 !important;
+}
+.sideMenuItem {
+	color: #fff !important;
+
+}
+.MainContainer {
+	margin-left: 0 !important;
+	
+	padding-left: 0 !important;
+	
+	padding: 0 !important;
+	height: 100vh !important;
+	max-width: 100vw !important;
+	margin: 0 !important;
+}
+.timelineCol {
+	overflow-y: auto !important;
+	max-height: 100vh !important;
+	 font-size:16px;
+}
+.clientsCol {
+	overflow-y: auto !important;
+	max-height: calc(100vh - 460px);
+}
+.bills {
+	overflow-y: auto !important;
+	min-height: 300px; 
+	
+}
+.loading {
+	position: relative;
+	bottom: 60vh;
+	left: 50vw;
+	overflow: hidden;
+	z-index: 2;
+}
+.inputHeader {
+	line-height: 0.9;
+	font-weight: 800;
+	color: #999;
+	text-transform: uppercase;
 	font-size: 12px;
-	line-height: 110%;
-	margin-top: -10px;
-}
-.cardMain {
-	height: 100%;
-  	height: 40vh;
-  	margin: 10px !important;
-	text-align: left;
-	background-color: #fff !important;
-	color: #fff !important;
-}
-.cardMainSide {
-	background-color: #222d32 !important;
-	color: #fff !important;
-	height: 40vh;
-	text-align: center;
-	padding-top: 15vh;
-}
-.dark {
-	background-color: #222d32 !important;
-	color: #fff !important;
-}
-.cardHeader {
-	background-color: #222d32 !important;
-	color: #fff !important;
-}
-.newCompanies {
-	max-height: 30vh;
-	padding: 10px;
-	overflow: auto !important;
-}
-.cardBottom {
-  	max-height: 40vh;
-  	margin: 10px !important;
-	text-align: left;
-	background-color: #fff !important;
-	color: #fff !important;
 }

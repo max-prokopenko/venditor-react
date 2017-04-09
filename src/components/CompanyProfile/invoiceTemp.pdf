@@ -1,0 +1,673 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 5093>>
+stream
+0.57 w
+0 G
+BT
+/F10 26 Tf
+29.9 TL
+0 g
+56.69 756.85 Td
+(Company name) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+62.36 700.16 Td
+(Company Oy) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+62.36 685.98 Td
+(Katu 1) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+62.36 671.81 Td
+(00001 Kaupunki) Tj
+ET
+BT
+/F9 16 Tf
+18.4 TL
+0 g
+311.81 756.85 Td
+(Lasku) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 728.50 Td
+(Päiväys) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 728.50 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 714.33 Td
+(Laskunumero) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 714.33 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 700.16 Td
+(Viitenumero) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 700.16 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 685.98 Td
+(Tilinumero) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 685.98 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 671.81 Td
+(Maksuehto) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 671.81 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 657.64 Td
+(Eräpäivä) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 657.64 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 643.47 Td
+(Viivästyskorko) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 643.47 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 629.29 Td
+(Valuutta) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 629.29 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+311.81 615.12 Td
+(Toimituspnm) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+453.54 615.12 Td
+(Data) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+56.69 558.43 Td
+(Lisätietoja:) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+56.69 530.08 Td
+(Data) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+56.69 493.23 Td
+(Tuote) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+170.08 493.23 Td
+(Määrä) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+226.77 493.23 Td
+(Yksikkö) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+325.98 493.23 Td
+(Yks. hinta) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+425.20 493.23 Td
+(Veroton arvo) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+524.41 493.23 Td
+(Alv-%) Tj
+ET
+56.693 487.560 m 
+566.928 487.560 l
+S
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+56.69 470.55 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+170.08 470.55 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+226.77 470.55 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+325.98 470.55 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+425.20 470.55 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+524.41 470.55 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+283.46 416.69 Td
+(Veroton arvo yhteensä) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+283.46 402.52 Td
+(Alv) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+283.46 388.35 Td
+(Summa yhteensä) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+481.89 416.69 Td
+(Data) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+481.89 402.52 Td
+(Data) Tj
+ET
+BT
+/F10 12 Tf
+13.799999999999999 TL
+0 g
+481.89 388.35 Td
+(Data) Tj
+ET
+56.693 303.308 m 
+566.928 303.308 l
+S
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+56.69 291.97 Td
+(Company Oy) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+56.69 280.63 Td
+(Osoite) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+56.69 269.29 Td
+(Osoite) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+269.29 291.97 Td
+(Y-tunnus) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+269.29 280.63 Td
+(ALV-tunnus) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+269.29 269.29 Td
+(Kotipaikka) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+467.72 291.97 Td
+(Puhelin) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+467.72 280.63 Td
+(Sähköposti) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+467.72 269.29 Td
+(Kotisivu) Tj
+ET
+28.346 226.773 m 
+581.101 226.773 l
+S
+311.810 226.773 m 
+311.810 19.844 l
+S
+99.212 226.773 m 
+99.212 119.057 l
+S
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+28.35 204.10 Td
+(Saajan tilinumero) Tj
+ET
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+141.73 204.10 Td
+(IBAN) Tj
+ET
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+340.16 204.10 Td
+(BIC) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+141.73 175.75 Td
+(FI12 3456 7890 0000 11) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+340.16 175.75 Td
+(NDEAFIHH) Tj
+ET
+28.346 161.576 m 
+581.101 161.576 l
+S
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+28.35 141.73 Td
+(Saaja) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+141.73 138.90 Td
+(Company oy) Tj
+ET
+28.346 119.057 m 
+311.810 119.057 l
+S
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+28.35 90.71 Td
+(Maksaja) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+141.73 90.71 Td
+(Company2 oy) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+141.73 76.54 Td
+(Katu 1) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+141.73 62.36 Td
+(00001 Kaupunki) Tj
+ET
+28.346 53.860 m 
+581.101 53.860 l
+S
+311.810 82.206 m 
+581.101 82.206 l
+S
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+317.48 65.20 Td
+(Viitenro) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+368.50 65.20 Td
+(100 09936) Tj
+ET
+354.330 82.206 m 
+354.330 19.844 l
+S
+28.346 19.844 m 
+581.101 19.844 l
+S
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+317.48 34.02 Td
+(Eräpäivä) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+368.50 28.35 Td
+(1.5.2017) Tj
+ET
+467.716 53.860 m 
+467.716 19.844 l
+S
+BT
+/F9 8 Tf
+9.2 TL
+0 g
+473.38 42.52 Td
+(Euro) Tj
+ET
+BT
+/F9 12 Tf
+13.799999999999999 TL
+0 g
+496.06 28.35 Td
+(99.95) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+6 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+18 0 obj
+<<
+/Producer (jsPDF 1.x-master)
+/CreationDate (D:20170409222208+03'00')
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000005261 00000 n 
+0000006555 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000005318 00000 n 
+0000005408 00000 n 
+0000005503 00000 n 
+0000005601 00000 n 
+0000005703 00000 n 
+0000005791 00000 n 
+0000005885 00000 n 
+0000005982 00000 n 
+0000006083 00000 n 
+0000006176 00000 n 
+0000006268 00000 n 
+0000006362 00000 n 
+0000006460 00000 n 
+0000006791 00000 n 
+0000006882 00000 n 
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+>>
+startxref
+6986
+%%EOF
